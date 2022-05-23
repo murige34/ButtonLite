@@ -1,0 +1,19 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+loop	KEYWORD2
+setDebounceTime	KEYWORD2
+getState	KEYWORD2
+isPressed	KEYWORD2
+isReleased	KEYWORD2
+timePressed	KEYWORD2
+		
