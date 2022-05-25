@@ -30,3 +30,8 @@ Available Functions
 * isReleased()
 * timePressed()
 * __loop()__
+
+Wiring diagram
+----------------------------
+![Arduino UNO Wiring for single button](https://github.com/murige34/ButtonLite/blob/main/extras/ButtonLite%20wiring%20examples%2001_to_05.PNG)
+
